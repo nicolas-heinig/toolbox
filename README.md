@@ -6,20 +6,20 @@ In this repository I want to keep a list of various software pieces that I like 
 
 ## Gems
 
-- [rails](https://github.com/rails/rails)
-- [sinatra](https://github.com/sinatra/sinatra)
-- [hanami](https://github.com/hanami/hanami)
-- [rspec](https://github.com/rspec/rspec)
-- [interactor](https://github.com/collectiveidea/interactorf)
-- [guard](https://github.com/guard/guard)
-- [rubocop](https://github.com/rubocop-hq/rubocop)
-- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)
-- [factory-bot](https://github.com/thoughtbot/factory_bot)
-- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
-- [faker](https://github.com/faker-ruby/faker)
-- [byebug](https://github.com/deivid-rodriguez/byebug)
-- [devise](https://github.com/heartcombo/devise)
-- [geocoder](https://github.com/alexreisner/geocoder)
+- [rails](https://github.com/rails/rails) - My favourite ruby framework for many years. I use it every day on the job.
+- [sinatra](https://github.com/sinatra/sinatra) - When I want to try out smaller web applications, Sinatra is usually my choice. It's very lightweight, but can be enhanced with many many plugins.
+- [hanami](https://github.com/hanami/hanami) - Another framework that I experimented with. I like that it has some of my favourite tools baked in, for example rspec and the interactor pattern.
+- [rspec](https://github.com/rspec/rspec) - This is the testing framework of my choice. Whether I write unit tests or web acceptance tests with capybara, RSpec gets the job done. [Effective Testing with RSpec 3](https://pragprog.com/titles/rspec3/) helped me a lot to get to know the tool.
+- [interactor](https://github.com/collectiveidea/interactor) - When the business logic goes bigger, I like to organize it in _interactors_, so that I can keep my controllers slim and my models focused on DB interactions. The gem provides a common interface and other helpers.
+- [guard](https://github.com/guard/guard) - To automate tasks that should be run whenever I save a file, I use guard. It runs my specs and rubocop every hour at least 100 times while developing.
+- [rubocop](https://github.com/rubocop-hq/rubocop) - The standard linter for the ruby world. It helps a lot to follow the [Ruby Style Guide](https://rubystyle.guide/). After I worked in a project that ran without rubocop for 2 years, I know how much value you get from it.
+- [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - If I can use rails to write a one-liner validation, why shouldn't I be able to use a one-line test for that?
+- [factory-bot](https://github.com/thoughtbot/factory_bot) - I use `FactoryBot` to generate model instances or their attributes for my specs.
+- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Everything that I write into the DB while testing needs to be cleaned up afterwards. This tool does that for me.
+- [faker](https://github.com/faker-ruby/faker) - I am kind of bad when naming test data. `Faker` helps me to generate more sane names, adresses, movie titles and much more.
+- [byebug](https://github.com/deivid-rodriguez/byebug) - The debugger of my choice. When I need more fancy output, I use [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug).
+- [devise](https://github.com/heartcombo/devise) - When I need to introduce authentication to my applications, Device is my tool of choice. It is very powerful, but you can scope out things you don't need.
+- [geocoder](https://github.com/alexreisner/geocoder) - This helps a lot when you need to work with location services. It features many APIs and integrates seamlessly with my default stack.
 
 ## Data Stores
 
