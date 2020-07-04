@@ -2,7 +2,7 @@
 
 This is my toolbox 🧰
 
-In this repository I want to keep a list of various software pieces that I like to use.
+In this repository I keep a list of various software pieces that I like to use.
 
 ## Gems
 
@@ -44,40 +44,40 @@ In this repository I want to keep a list of various software pieces that I like 
 
 ## Editor
 
-- [Visual Studio Code](https://github.com/microsoft/vscode)
-- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) I use `Material Theme Darker High Contrast`
+- [Visual Studio Code](https://github.com/microsoft/vscode) - VS Code is the editor of my choice. I chose it mainly because of its UI and its extensibility. Below I list my top 5 extensions.
 
-  - [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
-  - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
-  - [Rails Run Specs](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode)
-  - [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
+  - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - I use `Material Theme Darker High Contrast`.
+  - [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - A must-have for every Ruby Developer. It closes `do...end` blocks for you.
+  - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame) - This shows the `git blame` output for the current line in the status bar.
+  - [Rails Run Specs](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode) - With this extension you are able to quickly run the specs for the current file or line with one keystroke.
+  - [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph) - Provides Go-To-Definition and intellisense for Ruby Projects.
 
-- [IntelliJ](https://www.jetbrains.com/idea/)
+- [IntelliJ](https://www.jetbrains.com/idea/) - Whenever I need to code on a JVM language like Java or Scala, I use IntelliJ. I am currently working through [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/) by coding along the examples.
 
 ## Dev tools
 
-- [git](https://github.com/git/git)
-- [homebrew](https://brew.sh/)
-- [docker](https://www.docker.com/)
-- [heroku](https://heroku.com)
+- [git](https://github.com/git/git) - Must have. I like to squash merge feature branches into the master for a clean history.
+- [homebrew](https://brew.sh/) - I work on MacOS. Homebrew provides the necessary packages for everything.
+- [docker](https://www.docker.com/) - We run our infrastructure based on docker. But I also like to use it for development to run applications or backing services.
+- [heroku](https://heroku.com) - When I need to host my personal projects, I use herokus free tier. I like to deploy by just pushing to a special git source.
 
 ## Monitoring
 
-- [Grafana](https://github.com/grafana/grafana)
-- [Graphite](https://graphiteapp.org/)
-- [statsd](https://github.com/statsd/statsd)
-- [Sentry](https://sentry.io/)
+- [Grafana](https://github.com/grafana/grafana) - Grafana is my choice for metric visualization.
+- [Graphite](https://graphiteapp.org/) - I use Graphite to store metrics for Grafana.
+- [statsd](https://github.com/statsd/statsd) - StatsD is a small metric collector that collects metrics as UDP packages and flushes them into Graphite. There are libraries for many programming languages.
+- [Sentry](https://sentry.io/) - Simple free exception logging for various tech stacks.
 
 ## Productivity
 
-- [Microsoft To Do](https://todo.microsoft.com/)
-- [Google Keep](https://www.google.de/keep/)
+- [Microsoft To Do](https://todo.microsoft.com/) - I organize my tasks in Microsoft To Do using the [Getting Things Done Methodology](https://gettingthingsdone.com/).
+- [Google Keep](https://www.google.de/keep/) - The note taking application of my choice. Notes are easy to write, and easy to organize with labels. The only thing missing for me is markdown support.
 
 ## Security
 
-- [1Password](https://1password.com/)
+- [1Password](https://1password.com/) - I use 1Password as my password manager. It stores not only the passwords for various websites, but also passwords that I share with my team inside a shared vault.
 
 ## Graphics
 
-- [Skitch](https://evernote.com/intl/de/products/skitch)
-- [yEd](https://www.yworks.com/products/yed)
+- [Skitch](https://evernote.com/intl/de/products/skitch) - Quickly take a screenshot and use arrows, boxes, etc. to highlight important elements.
+- [yEd](https://www.yworks.com/products/yed) - For various visualizations yEd is a easy to use but powerful tool. You can use it for flowcharts, diagrams and many others.
