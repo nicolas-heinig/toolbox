@@ -23,24 +23,24 @@ In this repository I want to keep a list of various software pieces that I like 
 
 ## Data Stores
 
-- [mysql](https://www.mysql.com/)
-- [postgresql](https://www.postgresql.org/)
-- [redis](https://redis.io/)
+- [mysql](https://www.mysql.com/) - I am most familiar with using MySQL as a datastore.
+- [postgresql](https://www.postgresql.org/) - When I run own projects on heroku, I tend to use postgres, as the integration on heroku side is very advanced.
+- [redis](https://redis.io/) - For Caching purposes or projects where I don't need a full relation database setup, I use redis.
 
 ## Terminal
 
-- [zsh](https://github.com/zsh-users/zsh)
-- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [zsh](https://github.com/zsh-users/zsh) - My go-to shell is zsh.
+- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) - Enables easy customization of the shell. Below I list the top 5 of my favorite plugins.
 
-  - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
-  - [docker](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker)
-  - [rake](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/rake)
-  - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+  - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) - Autocomplete and aliases for git commands.
+  - [docker](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker) - Autocomplete for docker commands.
+  - [rake](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/rake) - Reads out our Rakefile and tasks and autocompletes the command.
+  - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Syntax highlighting in the shell. I like that it shows the command in red when it does not exist.
+  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Suggests commands from your history again. Very helpful if you are keen to smash the arrow up button over and over again.
 
-- [iterm](https://github.com/gnachman/iTerm2)
-- [thefuck](https://github.com/nvbn/thefuck)
-- [tldr](https://github.com/tldr-pages/tldr)
+- [iterm](https://iterm2.com/) - The terminal replacement I use. I enjoy splitting the panes and getting notifications when a long-running command finally finishes.
+- [thefuck](https://github.com/nvbn/thefuck) - You did a small typo? No problem. Just type into the console what you might whisper to yourself and let the magic happen.
+- [tldr](https://github.com/tldr-pages/tldr) - This nice command gives you a small summary of typical usages for the most commands.
 
 ## Editor
 
