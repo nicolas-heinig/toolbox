@@ -4,6 +4,18 @@ This is my toolbox 🧰
 
 In this repository I keep a list of various software pieces that I like to use.
 
+## Contents
+
+- [Gems](#gems)
+- [Data Stores](#data-stores)
+- [Terminal](#terminal)
+- [Editor](#editor)
+- [Dev tools](#dev-tools)
+- [Monitoring](#monitoring)
+- [Productivity](#productivity)
+- [Security](#security)
+- [Graphics](#graphics)
+
 ## Gems
 
 - [rails](https://github.com/rails/rails) - My favourite ruby framework for many years. I use it every day on the job.
