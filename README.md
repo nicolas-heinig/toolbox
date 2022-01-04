@@ -27,9 +27,7 @@ In this repository I keep a list of various software pieces that I like to use.
 - [rubocop](https://github.com/rubocop-hq/rubocop) - The standard linter for the ruby world. It helps a lot to follow the [Ruby Style Guide](https://rubystyle.guide/). After I worked in a project that ran without rubocop for 2 years, I know how much value you get from it.
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - If I can use rails to write a one-liner validation, why shouldn't I be able to use a one-line test for that?
 - [factory-bot](https://github.com/thoughtbot/factory_bot) - I use `FactoryBot` to generate model instances or their attributes for my specs.
-- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Everything that I write into the DB while testing needs to be cleaned up afterwards. This tool does that for me.
 - [faker](https://github.com/faker-ruby/faker) - I am kind of bad when naming test data. `Faker` helps me to generate more sane names, adresses, movie titles and much more.
-- [byebug](https://github.com/deivid-rodriguez/byebug) - The debugger of my choice. When I need more fancy output, I use [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug).
 - [devise](https://github.com/heartcombo/devise) - When I need to introduce authentication to my applications, Device is my tool of choice. It is very powerful, but you can scope out things you don't need.
 - [geocoder](https://github.com/alexreisner/geocoder) - This helps a lot when you need to work with location services. It features many APIs and integrates seamlessly with my default stack.
 
