@@ -54,22 +54,15 @@ In this repository I keep a list of various software pieces that I like to use.
 
 ## Editor
 
-- [Visual Studio Code](https://github.com/microsoft/vscode) - VS Code is the editor of my choice. I chose it mainly because of its UI and its extensibility. Below I list my top 5 extensions.
+- [neovim](https://github.com/neovim/neovim) - I belong to the cult. My configuration is built from scratch, but hidden in my private dotfiles repository.
 
-  - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - I use `Material Theme Darker High Contrast`.
-  - [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - A must-have for every Ruby Developer. It closes `do...end` blocks for you.
-  - [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame) - This shows the `git blame` output for the current line in the status bar.
-  - [Rails Run Specs](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode) - With this extension you are able to quickly run the specs for the current file or line with one keystroke.
-  - [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph) - Provides Go-To-Definition and intellisense for Ruby Projects.
-
-- [IntelliJ](https://www.jetbrains.com/idea/) - Whenever I need to code on a JVM language like Java or Scala, I use IntelliJ. I am currently working through [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/) by coding along the examples.
+- [IntelliJ](https://www.jetbrains.com/idea/) - Whenever I need to code on a JVM language like Java or Scala, I use IntelliJ.
 
 ## Dev tools
 
 - [git](https://github.com/git/git) - Must have. I like to squash merge feature branches into the master for a clean history.
 - [homebrew](https://brew.sh/) - I work on MacOS. Homebrew provides the necessary packages for everything.
 - [docker](https://www.docker.com/) - We run our infrastructure based on docker. But I also like to use it for development to run applications or backing services.
-- [heroku](https://heroku.com) - When I need to host my personal projects, I use herokus free tier. I like to deploy by just pushing to a special git source.
 
 ## Monitoring
 
