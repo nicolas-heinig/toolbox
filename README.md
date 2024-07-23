@@ -42,8 +42,6 @@ In this repository I keep a list of various software pieces that I like to use.
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - If I can use rails to write a one-liner validation, why shouldn't I be able to use a one-line test for that?
 - [factory-bot](https://github.com/thoughtbot/factory_bot) - I use `FactoryBot` to generate model instances or their attributes for my specs.
 - [faker](https://github.com/faker-ruby/faker) - I am kind of bad when naming test data. `Faker` helps me to generate more sane names, adresses, movie titles and much more.
-- [devise](https://github.com/heartcombo/devise) - When I need to introduce authentication to my applications, Device is my tool of choice. It is very powerful, but you can scope out things you don't need.
-- [geocoder](https://github.com/alexreisner/geocoder) - This helps a lot when you need to work with location services. It features many APIs and integrates seamlessly with my default stack.
 
 ## Data Stores
 
