@@ -14,7 +14,6 @@ In this repository I keep a list of various software pieces that I like to use.
 - [Monitoring](#monitoring)
 - [Productivity](#productivity)
 - [Security](#security)
-- [Graphics](#graphics)
 
 ## Gems
 
@@ -79,8 +78,3 @@ In this repository I keep a list of various software pieces that I like to use.
 ## Security
 
 - [1Password](https://1password.com/) - I use 1Password as my password manager. It stores not only the passwords for various websites, but also passwords that I share with my team inside a shared vault.
-
-## Graphics
-
-- [Skitch](https://evernote.com/intl/de/products/skitch) - Quickly take a screenshot and use arrows, boxes, etc. to highlight important elements.
-- [yEd](https://www.yworks.com/products/yed) - For various visualizations yEd is a easy to use but powerful tool. You can use it for flowcharts, diagrams and many others.
